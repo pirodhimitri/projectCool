@@ -34,6 +34,8 @@ The members in this group are:
 
 1. www.kaggle.com/dataset1 
 
+## Code snippets
+` import pandas as pd`
 
 ## Analysis 
 
@@ -42,4 +44,4 @@ In analyzing the data from TOronto and York, we see that there is an increase in
 ## Limitations
 
 We only took data from 2021 and 2022, but nothing before or after... 
-` import pandas as pd`
+
