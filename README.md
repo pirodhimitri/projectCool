@@ -1,5 +1,5 @@
 # projectCool - 
-
+![uoftlogo](download.png)
 ---
 
 ## Description of the Project 
