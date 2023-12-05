@@ -33,3 +33,12 @@ The members in this group are:
 ## Datasets used: 
 
 1. www.kaggle.com/dataset1 
+
+
+## Analysis 
+
+In analyzing the data from TOronto and York, we see that there is an increase in ... 
+
+## Limitations
+
+We only took data from 2021 and 2022, but nothing before or after... 
